@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/Vwp5ySiUI72V -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0](https://github.com/IP-DND-Resources/Whip-Expert-Feat)
+[v0.2.0](https://github.com/IP-DND-Resources/Whip-Expert-Feat)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -26,11 +26,12 @@ You have mastered the art of fighting with a whip, able to strike with power and
 
 **Ability Score Increase.** Increase your Dexterity, Strength, or Intelligence score by 1, to a maximum </br>of 20.
 
-**Precise Strike.** Once on each of your turns, when you hit a creature with a whip, you can choose one of the following effects:
+**Lash.** When you hit any target with a Whip, you can add 1d4 to the damage roll of the whip.
+
+**Precise Strike.** Once per turn, when you hit a creature with a whip, instead of dealing damage you can choose one of the following effects:
 
 - **Bind.** The target must succeed on a Dexterity saving throw or be Grappled by you. You cannot attack with a whip that is being used to grapple a creature in </br>this way.
 - **Disarm.** The target must succeed on a Strength saving throw, or drop one item it is holding (your choice). The creature has Advantage on this saving throw if the item is being held with two hands.
-- **Lash.** The whip’s damage increases by 1d4 for </br>this attack.
 - **Pull.** You pull the creature 5 feet towards you if it is the same size as you or smaller, otherwise you pull yourself 5 feet towards the target. This movement does not provoke opportunity attacks
 - **Sweep.** The target must succeed on a Strength saving throw or be knocked prone. The DC for saving throws to resist these effects is 8 + your proficiency bonus + your Dexterity or Strength modifier (your choice).
 

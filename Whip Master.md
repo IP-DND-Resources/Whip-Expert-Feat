@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/Vwp5ySiUI72V -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.2.1](https://github.com/IP-DND-Resources/Whip-Expert-Feat)
+[v0.3.0](https://github.com/IP-DND-Resources/Whip-Expert-Feat)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
